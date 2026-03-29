@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:1f6feb&height=220&section=header&text=Steven%20Isaac&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Blockchain%20Architect%20%7C%20AI%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+the+future+of+DeFi+%26+AI+%F0%9F%9A%80;Co-Founder+%40Bytez3+%E2%80%A2+7%2C900%2B+Commits+%E2%80%A2+261+Repos" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+the+future+of+DeFi+%26+AI+%F0%9F%9A%80;Co-Founder+%40Bytez3+%E2%80%A2+Solana+%E2%80%A2+Rust+%E2%80%A2+AI" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -12,6 +12,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/SteOnChain?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=6e40c9)](https://github.com/SteOnChain)
 [![Profile Views](https://komarev.com/ghpvc/?username=SteOnChain&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS)](https://github.com/SteOnChain)
 [![Website](https://img.shields.io/badge/bytez3.com-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.bytez3.com/)
+[![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/SteOnChain)
 
 </div>
 
@@ -82,19 +83,17 @@ impl Developer {
 
 </div>
 
-### ⚡ By The Numbers
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
-| Metric | Count |
-|:---|:---|
-| 🔥 **Total Commits** | `7,951+` |
-| 📦 **Total Repositories** | `261` |
-| 🌟 **Contributions (Last Year)** | `3,672` |
-| 🏢 **Organizations** | `27` |
-| 🔀 **Pull Requests** | `4` |
-| 📝 **Languages Used** | `12` |
-| 💾 **Storage Used** | `5.77 GB` |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SteOnChain/SteOnChain/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SteOnChain/SteOnChain/output/github-snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/SteOnChain/SteOnChain/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
@@ -399,6 +398,7 @@ impl Developer {
 
 [![Website](https://img.shields.io/badge/Bytez3.com-6e40c9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.bytez3.com/)
 [![GitHub](https://img.shields.io/badge/@SteOnChain-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SteOnChain)
+[![Sponsor](https://img.shields.io/badge/Sponsor_Me-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/SteOnChain)
 [![Email](https://img.shields.io/badge/Contact-1f6feb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@bytez3.com)
 
 <br/>
