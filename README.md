@@ -35,6 +35,27 @@ I'm a passionate developer specializing in **Solana smart contracts, Web3 toolin
 
 ---
 
+### 🏢 Open Source Contributions @Bytez3
+
+<p align="center">
+  <a href="https://github.com/Bytez3/MEDiscordBuySell">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Bytez3&repo=MEDiscordBuySell&theme=radical&bg_color=000000&border_color=30363d" width="48%" />
+  </a>
+  <a href="https://github.com/Bytez3/husks-sdk">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Bytez3&repo=husks-sdk&theme=radical&bg_color=000000&border_color=30363d" width="48%" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Bytez3/aegiz-sdk">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Bytez3&repo=aegiz-sdk&theme=radical&bg_color=000000&border_color=30363d" width="48%" />
+  </a>
+  <a href="https://github.com/Bytez3/jackgoldsilver">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Bytez3&repo=jackgoldsilver&theme=radical&bg_color=000000&border_color=30363d" width="48%" />
+  </a>
+</p>
+
+---
+
 ### 🚀 Projects & Organizations
 
 Here is a breakdown of the incredibly ambitious ecosystems, organizations, and protocols I am actively developing or heavily involved with. *Click to expand!*
