@@ -29,7 +29,7 @@ I'm a passionate developer specializing in **Solana smart contracts, Web3 toolin
 ### 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SteOnChain&theme=radical&no_bg=true&border=0&margin-w=15" alt="SteOnChain Trophies" />
+    <img src="https://github-profile-trophy-kannan.vercel.app/?username=SteOnChain&theme=radical&no_bg=true&border=0&margin-w=15" alt="SteOnChain Trophies" />
   </a>
 </p>
 
@@ -121,8 +121,8 @@ Here is a breakdown of the incredibly ambitious ecosystems, organizations, and p
 > Note: Most of my active work is in **private repositories**, which is why my public commit history might seem quiet!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SteOnChain&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&include_all_commits=true&count_private=true" alt="Steven's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteOnChain&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SteOnChain&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&include_all_commits=true&count_private=true" alt="Steven's GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SteOnChain&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
