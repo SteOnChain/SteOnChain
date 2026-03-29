@@ -1,5 +1,9 @@
 # Hi there, I'm Steven 👋
 
+> **Co-Founder @Bytez3 🛠️ | Rust & Solidity Dev.**
+> Building the future of Web3 infrastructure.
+> Join our elite ecosystem: [discord.gg/bytez3](http://discord.gg/bytez3) | Follow [@Bytez3_](https://x.com/Bytez3_) ⛓️🦀
+
 <p align="center">
   <a href="https://github.com/Steven-Blockgein3">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=535&lines=Web3,+AI,+and+Automation+Engineer;Solana+Smart+Contract+Developer;Full+Stack+Software+Engineer" />
