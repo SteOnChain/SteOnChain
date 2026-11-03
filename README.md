@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:1f6feb&height=220&section=header&text=Steven%20Isaac&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Blockchain%20Architect%20%7C%20AI%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%"/>
+<img alt="Steven Isaac — Blockchain Architect, AI Engineer, Full-Stack Developer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:1f6feb&height=220&section=header&text=Steven%20Isaac&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Blockchain%20Architect%20%7C%20AI%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+the+future+of+DeFi+%26+AI+%F0%9F%9A%80;Co-Founder+%40Bytez3+%E2%80%A2+Solana+%E2%80%A2+Rust+%E2%80%A2+AI" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+the+future+of+DeFi+%26+AI+%F0%9F%9A%80;Co-Founder+%40Bytez3+%E2%80%A2+Solana+%E2%80%A2+Rust+%E2%80%A2+AI" alt="Building the future of DeFi &amp; AI. Co-Founder @Bytez3 • Solana • Rust • AI" /></a>
 
 <br/>
 
@@ -61,16 +61,16 @@ impl Developer {
 <div align="center">
 
 <!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=SteOnChain&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=1f6feb&text_color=8b949e&ring_color=6e40c9&include_all_commits=true&count_private=true&custom_title=Overall%20Stats" height="180"/>
+<img alt="SteOnChain GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SteOnChain&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=1f6feb&text_color=8b949e&ring_color=6e40c9&include_all_commits=true&count_private=true&custom_title=Overall%20Stats" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteOnChain&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=8b949e&langs_count=10" height="180"/>
+<img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteOnChain&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=8b949e&langs_count=10" height="180"/>
 
 </div>
 
 <div align="center">
 
 <!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=SteOnChain&theme=midnight-purple&hide_border=true&background=0d1117&stroke=6e40c9&ring=6e40c9&fire=1f6feb&currStreakLabel=6e40c9&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="700"/>
+<img alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=SteOnChain&theme=midnight-purple&hide_border=true&background=0d1117&stroke=6e40c9&ring=6e40c9&fire=1f6feb&currStreakLabel=6e40c9&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="700"/>
 
 </div>
 
@@ -79,7 +79,7 @@ impl Developer {
 <div align="center">
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SteOnChain&theme=react-dark&hide_border=true&bg_color=0d1117&color=6e40c9&line=1f6feb&point=6e40c9&area=true&area_color=6e40c9" width="95%"/>
+<img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SteOnChain&theme=react-dark&hide_border=true&bg_color=0d1117&color=6e40c9&line=1f6feb&point=6e40c9&area=true&area_color=6e40c9" width="95%"/>
 
 </div>
 
@@ -386,7 +386,7 @@ impl Developer {
 <div align="center">
 
 <!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=SteOnChain&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
+<img alt="GitHub profile trophies" src="https://github-profile-trophy.vercel.app/?username=SteOnChain&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
 
 </div>
 
@@ -403,6 +403,6 @@ impl Developer {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:1f6feb&height=120&section=footer" width="100%"/>
+<img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:1f6feb&height=120&section=footer" width="100%"/>
 
 </div>
