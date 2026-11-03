@@ -70,7 +70,7 @@ impl Developer {
 <div align="center">
 
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SteOnChain&theme=midnight-purple&hide_border=true&background=0d1117&stroke=6e40c9&ring=6e40c9&fire=1f6feb&currStreakLabel=6e40c9&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="700"/>
+<img src="https://streak-stats.demolab.com/?user=SteOnChain&theme=midnight-purple&hide_border=true&background=0d1117&stroke=6e40c9&ring=6e40c9&fire=1f6feb&currStreakLabel=6e40c9&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="700"/>
 
 </div>
 
