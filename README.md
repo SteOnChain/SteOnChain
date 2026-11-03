@@ -133,7 +133,7 @@ impl Developer {
 <tr>
 <td width="50%">
 
-#### [Aegiz](https://github.com/SteOnChain) `On-Chain ML`
+#### Aegiz `On-Chain ML`
 > **On-Chain Machine Learning Threat Detection**
 > 
 > 12-feature Neural Network (12→8→1) with SGD + EMA weights. Browser extension, submission portal, and admin dashboard.
@@ -143,7 +143,7 @@ impl Developer {
 </td>
 <td width="50%">
 
-#### [Husks](https://github.com/SteOnChain) `AI Gaming`
+#### Husks `AI Gaming`
 > **On-Chain AI Combat & Staking Economy**
 > 
 > Verified INT8 neural network combat engine, passive staking in 'The Trench', procedural pixel art evolution, and permissionless crankers.
