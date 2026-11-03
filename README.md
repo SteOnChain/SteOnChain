@@ -136,7 +136,7 @@ impl Developer {
 #### [Aegiz](https://github.com/SteOnChain) `On-Chain ML`
 > **On-Chain Machine Learning Threat Detection**
 > 
-> 12-feature Neural Network (12→8→1) with SGD + EMA weights. Browser extension, submission portal, and admin dashboard. Rebranded from Aegis → Aegiz.
+> 12-feature Neural Network (12→8→1) with SGD + EMA weights. Browser extension, submission portal, and admin dashboard.
 > 
 > `Rust` `Anchor` `Neural Networks` `Chrome Extension`
 
