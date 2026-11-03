@@ -4,7 +4,7 @@
 <img alt="Steven Isaac — Blockchain Architect, AI Engineer, Full-Stack Developer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:1f6feb&height=220&section=header&text=Steven%20Isaac&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Blockchain%20Architect%20%7C%20AI%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+the+future+of+DeFi+%26+AI+%F0%9F%9A%80;Co-Founder+%40Bytez3+%E2%80%A2+Solana+%E2%80%A2+Rust+%E2%80%A2+AI" alt="Building the future of DeFi &amp; AI. Co-Founder @Bytez3 • Solana • Rust • AI" /></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+the+future+of+DeFi+%26+AI+%F0%9F%9A%80;Co-Founder+%40Bytez3+%E2%80%A2+Solana+%E2%80%A2+Rust+%E2%80%A2+AI" alt="Building the future of DeFi &amp; AI. Co-Founder @Bytez3 • Solana • Rust • AI" /></a>
 
 <br/>
 
